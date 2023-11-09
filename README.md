@@ -12,8 +12,9 @@
 Tools and Languages I use:
 
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=Plastic&logo=r&logoColor=white)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=Plastic&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=Plastic&logo=python&logoColor=ffdd54)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=Plastic&logo=gnu-bash&logoColor=white)
+
 
 ![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=Plastic&logo=rstudio&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=Plastic&logo=microsoft%20sql%20server&logoColor=white)
